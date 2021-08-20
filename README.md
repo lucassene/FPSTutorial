@@ -14,4 +14,9 @@ Follow these steps to import the code to Godot:
 Lucas Sene Grandchamp – busy.weasel.games@gmail.com
 
 [Busy Weasel Games](https://busyweasel.itch.io/)
- 
+
+## Social Media
+
+[Instragram](https://www.instagram.com/busyweasel/)
+
+[Twitter](https://twitter.com/BusyWeasel)
